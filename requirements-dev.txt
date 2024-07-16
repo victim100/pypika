@@ -12,3 +12,4 @@ coverage==5.1
 
 # Formatting
 black==21.5b1
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
